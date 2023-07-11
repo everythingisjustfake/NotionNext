@@ -61,7 +61,7 @@ const BLOG = {
     'sans-serif',
     '"Apple Color Emoji"'
   ],
-  FONT_SERIF: [
+  FONT_SERIF: ['"Times New Roman"'
     // 衬线字体 例如'LXGW WenKai'
     'Bitter',
     '"Noto Serif SC"',
